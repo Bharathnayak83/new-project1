@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>usha</name>
-	      <url>http://13.233.190.70:8084/usha/repository/project1-release/</url>
+	      <name>bharath</name>
+	      <url>http://13.234.37.1:8393/nexus/repository/release-jenkins/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>usha</name>
-	      <url>http://13.233.190.70:8084/usha/repository/project1-snapshot/</url>
+	      <name>bharath</name>
+	      <url>http://13.234.37.1:8393/nexus/repository/snapshot-jenkins/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
